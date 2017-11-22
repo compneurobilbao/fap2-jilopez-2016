@@ -1,0 +1,69 @@
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file '180__corrected_18_07_16.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{496.89989099bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.87516279)%
+    \put(0,0){\includegraphics[width=\unitlength]{180__corrected_18_07_16.pdf}}%
+    \put(0.06821198,0.20252943){\rotatebox{90}{\makebox(0,0)[lb]{\smash{0.00.20.40.60.81.0}}}}%
+    \put(0.48264213,0.10334543){\makebox(0,0)[lb]{\smash{Time}}}%
+    \put(0.01934698,0.41192863){\rotatebox{90}{\makebox(0,0)[lb]{\smash{Fraction surviving}}}}%
+    \put(0.63491682,0.83230043){\makebox(0,0)[lb]{\smash{HR = 1.7
+logrank P = 0.014
+Number at risk
+7151
+36}}}%
+    \put(0.31303833,0.00036058){\makebox(0,0)[lb]{\smash{3020
+14}}}%
+    \put(0.08355161,0.02971838){\makebox(0,0)[lb]{\smash{125}}}%
+    \put(0.09073811,0.00069517){\makebox(0,0)[lb]{\smash{80}}}%
+    \put(0.09089966,0.14550004){\makebox(0,0)[lb]{\smash{0}}}%
+    \put(0.30989138,0.14561447){\makebox(0,0)[lb]{\smash{50
+100150}}}%
+  \end{picture}%
+\endgroup%
